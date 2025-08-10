@@ -20,7 +20,7 @@ It is built entirely with **HTML**, **CSS**, and **JavaScript**.
 
 1. Download or clone this repository:
     ```bash
-    git clone https://github.com/yourusername/ghazasaz.git
+    git clone https://github.com/amirshy/ghazasaz.git
     ```
 2. Open the `index.html` file in your browser.
 
@@ -54,7 +54,7 @@ Created with ❤️ by **Amir Izadi**.
 ۱. پروژه را دانلود یا کلون کنید:
 
 ```bash
-git clone https://github.com/username/GhazaSaz.git
+git clone https://github.com/amirshy/ghazasaz.git
 ```
 
 ## ✍️ نویسنده
